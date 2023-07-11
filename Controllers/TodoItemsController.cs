@@ -26,9 +26,15 @@ namespace TodoApi.Controllers
         {
           if (_context.TodoItems == null)
           {
-              return NoContent();
+            return NotFound();
           }
-            return await _context.TodoItems.ToListAsync();
+
+          var items = await _context.TodoItems.ToListAsync();
+          if (items.Count == 0)
+          {
+            return NoContent();
+          }
+            return items;
         }
 
         // GET: api/TodoItems/5
@@ -56,7 +62,7 @@ namespace TodoApi.Controllers
         {
             if (id != todoItem.Id)
             {
-                return BadRequest();
+                return Conflict();
             }
 
             _context.Entry(todoItem).State = EntityState.Modified;
