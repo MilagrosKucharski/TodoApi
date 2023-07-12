@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c0kixC1+IB+lCzLEUnHGThEQKN2ssOfMOEGxH18iKyYI7RTQfKWbzUw8IGou1+jFFO6xCt0XT27S7Xe5m45o/A==",
+  "dgSpecHash": "DEnBNX1neCC8X7FYyH7c5/978wcUSDvyk/g/rQQ9TEhw8s0Vju9R9BlNGIueSMgsknF0VRfYP4v5sj5JSfLJJA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\milak\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\milak\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
@@ -40,7 +40,7 @@
     "C:\\Users\\milak\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\7.0.9\\microsoft.entityframeworkcore.analyzers.7.0.9.nupkg.sha512",
     "C:\\Users\\milak\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.0\\microsoft.entityframeworkcore.design.7.0.0.nupkg.sha512",
     "C:\\Users\\milak\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\7.0.9\\microsoft.entityframeworkcore.inmemory.7.0.9.nupkg.sha512",
-    "C:\\Users\\milak\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.0\\microsoft.entityframeworkcore.relational.7.0.0.nupkg.sha512",
+    "C:\\Users\\milak\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.5\\microsoft.entityframeworkcore.relational.7.0.5.nupkg.sha512",
     "C:\\Users\\milak\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.0\\microsoft.entityframeworkcore.sqlserver.7.0.0.nupkg.sha512",
     "C:\\Users\\milak\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\milak\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
@@ -80,6 +80,8 @@
     "C:\\Users\\milak\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
     "C:\\Users\\milak\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\milak\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\milak\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\milak\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\7.0.4\\npgsql.entityframeworkcore.postgresql.7.0.4.nupkg.sha512",
     "C:\\Users\\milak\\.nuget\\packages\\nuget.common\\6.3.1\\nuget.common.6.3.1.nupkg.sha512",
     "C:\\Users\\milak\\.nuget\\packages\\nuget.configuration\\6.3.1\\nuget.configuration.6.3.1.nupkg.sha512",
     "C:\\Users\\milak\\.nuget\\packages\\nuget.dependencyresolver.core\\6.3.1\\nuget.dependencyresolver.core.6.3.1.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\TodoApi.csproj": {}
   },
   "projects": {
-    "c:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "c:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\milak\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\milak\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -60,6 +60,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.4, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
