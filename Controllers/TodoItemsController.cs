@@ -93,6 +93,8 @@ namespace TodoApi.Controllers
         {
             _context.TodoItems.Add(todoItem);
             await _context.SaveChangesAsync();
+            TodoItem item1 = new TodoItem {1,"Elemento 1", true};
+            TodoItem item2 = new TodoItem {2,"Elemento 2", true};
 
             //    return CreatedAtAction("GetTodoItem", new { id = todoItem.Id }, todoItem);
             return CreatedAtAction(nameof(GetTodoItem), new { id = todoItem.Id }, todoItem);

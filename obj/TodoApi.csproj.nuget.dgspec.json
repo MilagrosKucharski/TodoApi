@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\TodoApi.csproj": {}
+    "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\todoapi\\TodoApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\TodoApi.csproj": {
+    "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\todoapi\\TodoApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\TodoApi.csproj",
+        "projectUniqueName": "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\todoapi\\TodoApi.csproj",
         "projectName": "TodoApi",
-        "projectPath": "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\TodoApi.csproj",
+        "projectPath": "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\todoapi\\TodoApi.csproj",
         "packagesPath": "C:\\Users\\milak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\obj\\",
+        "outputPath": "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\todoapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\milak\\AppData\\Roaming\\NuGet\\NuGet.Config"

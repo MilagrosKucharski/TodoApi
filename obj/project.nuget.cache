@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DEnBNX1neCC8X7FYyH7c5/978wcUSDvyk/g/rQQ9TEhw8s0Vju9R9BlNGIueSMgsknF0VRfYP4v5sj5JSfLJJA==",
+  "dgSpecHash": "yUKERlQbp5clhm3vsWnR4jukvQFIV3Wwab1WoG8//Yb6l99+V8//5W89xBZVFGzy3SO2Ihc7htt+kOq59htofA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\TodoApi\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\milak\\OneDrive\\Documentos\\UCU2023\\Desafio1\\todoapi\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\milak\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\milak\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
